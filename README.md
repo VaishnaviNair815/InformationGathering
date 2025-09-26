@@ -48,11 +48,13 @@ To Find hosting company details use ip2location.com website
 
 ## Whatweb:
 <img width="1277" height="613" alt="Screenshot 2025-09-25 134603" src="https://github.com/user-attachments/assets/70df88cb-eb5f-4e68-bbb6-1b149204e57a" />
+
 ## TCP Traceroute:
 <img width="1272" height="330" alt="Screenshot 2025-09-25 134818" src="https://github.com/user-attachments/assets/4c6970c1-315f-4636-a6f4-f3b720912212" />
 
 ## UDP Traceroute:
 <img width="1261" height="593" alt="Screenshot 2025-09-25 135055" src="https://github.com/user-attachments/assets/08637263-8211-44c1-9f24-526604743e4c" />
+
 ## ICMP Traceroute:
 <img width="1249" height="597" alt="Screenshot 2025-09-25 135319" src="https://github.com/user-attachments/assets/11183f88-681b-4f2b-925d-611cda4d1f80" />
 
